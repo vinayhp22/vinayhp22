@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves expl
 
 ## Skills & Technologies
 
-- **Languages:** Java, Python, JavaScript, & PHP
+- **Languages:** Java(Spring MVC), Python(Django), JavaScript, & PHP
 - **Web Development:** HTML, CSS, React, & Next.js
 - **Tools & Platforms:** Git, Docker, CI/CD, Jira
 - **Other:** Agile methodologies, problem solving, and teamwork
