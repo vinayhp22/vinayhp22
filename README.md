@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves expl
 - 🌱 I’m constantly learning new programming languages and frameworks.
 - 👯 I’m looking to collaborate on projects that challenge and expand my technical skills.
 - 💬 Ask me about anything tech-related or open source!
-- 📫 How to reach me: [vinay@skyllx.com](mailto:vinay@skyllx.com) **or** [vinayhp.paramesh@gmail.com](mailto:vinayhp.paramesh@gmail.com)
+- 📫 How to reach me: [vinayhp.paramesh@gmail.com](mailto:vinayhp.paramesh@gmail.com)
 
 ## Skills & Technologies
 
